@@ -9,3 +9,4 @@ expect {
 }
 log_file autossh.log
 expect eof
+exit
